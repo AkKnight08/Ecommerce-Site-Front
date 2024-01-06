@@ -1,0 +1,53 @@
+{
+  "name": "ecom_site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.2",
+    "@reduxjs/toolkit": "^1.9.7",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.5.1",
+    "@uiw/react-color-circle": "^2.0.5",
+    "react": "^18.2.0",
+    "react-color-palette": "^7.1.0",
+    "react-credit-cards-2": "^1.0.1",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.2",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.12.0",
+    "react-image-zoom": "^1.3.1",
+    "react-img-zoom-gdn": "^0.1.7",
+    "react-redux": "^8.1.3",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "swiper": "^11.0.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
